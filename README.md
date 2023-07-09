@@ -31,7 +31,7 @@ The dataset used for this analysis is the Superstore dataset, which provides inf
 To reproduce the analysis and view the results, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/superstore-data-analytics.git
+git clone https://github.com/shibinashraf/superstore-da-ibmskillsbuild.git
 
 2. Install the necessary dependencies:
 pip install pandas
